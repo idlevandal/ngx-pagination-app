@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngx-pagination-app"
+    }
+  },
+  "defaultProject": "ngx-pagination-app",
+  "cli": {
+    "analytics": false
+  }
 }
